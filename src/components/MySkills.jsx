@@ -25,7 +25,7 @@ const MySkills = () => {
           </p>
           <LineGradient width="w-1/3" />
           <p className="mt-10 mb-7">
-            Below are a few of the languages I have learned and enjoy.
+            Below are a few of the languages I have learned and worked with.
           </p>
         </motion.div>
         
@@ -71,7 +71,7 @@ const MySkills = () => {
             <div className="w-1/2 md:w-3/4 h-32 bg-blue absolute right-0 top-0 z-[-1]" />
           </div>
           <p className="mt-5">
-            React has quickly become my favorite front-end framework. It allows me to create beautiful and modern web pages quite efficiently.
+            React has quickly become my favorite front-end framework. It is efficient and allows me to quickly create visually beautiful web pages.
           </p>
         </motion.div>
 
