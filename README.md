@@ -19,9 +19,9 @@ This application utilizes `React` as well as `Tailwind CSS` and the `framer moti
 ## Usage
 Below are some screenshots of the deployed application. You can view the deployed application [here](https://my-portfolio-1-0-0.herokuapp.com/)
 
-![](./src/assets/screenshot1.PNG)
-![](./src/assets/screenshot2.PNG)
-![](./src/assets/screenshot3.PNG)
+![](./src/assets/screenshot1.png)
+![](./src/assets/screenshot2.png)
+![](./src/assets/screenshot3.png)
 
 ## Questions
 Any Questions? Please reachout to me at jkasahara206@gmail.com
