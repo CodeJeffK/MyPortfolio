@@ -8,6 +8,7 @@ This is the 20th challenge for the UW Coding bootcamp. For this challenge, we ha
 This application utilizes `React` as well as `Tailwind CSS` and the `framer motion` package to handle dynamic div elements.
 
 -TODO: Add my picture to landing page 
+
 -TODO: Add an updated resume and link it
 
 ## Table of Contents
